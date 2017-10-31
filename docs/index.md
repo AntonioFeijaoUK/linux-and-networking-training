@@ -2,6 +2,26 @@
 
 ---
 
+## For Shah to do
+
+- [ ] Connect with shared folder on Google Drive
+
+- [ ] Create account on GitHub
+
+- [ ] Update this page with our meet up notes
+
+- [ ] 
+
+- [ ] 
+
+- [ ] Check what is bootstrap
+
+- [ ] Install, explore [SoloLearn](https://www.sololearn.com/) ![SoloLeasrn](https://www.sololearn.com/Uploads/sololearn_banner.jpg)
+
+- [ ] understand meaning of this google search ```sololearn site:sololearn.com```
+
+---
+
 ## Link for this page
 
 * [https://feijaouk.github.io/training/](https://feijaouk.github.io/training/)
