@@ -1,7 +1,16 @@
-# This is header 1 <h1>text1</h1>
+# This is header 1
 
-## This is header 2 <h2>text2</h2>
+## This is header 2
 
-* normal text <p>paragraph</p>
+* normal text
+
+Paragraph text
 
 > this is a quote in markdown
+
+
+```bash
+
+for NUMBER in {1..10} ; do echo "Hello World $(date)" ; done
+
+```
