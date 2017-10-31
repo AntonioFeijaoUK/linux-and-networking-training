@@ -13,6 +13,14 @@ Paragraph text
 
 ```bash
 
-for NUMBER in {1..10} ; do echo "Hello World $(date)" ; done
+for NUMBER in {1..10} ; 
+  do echo "Hello World $(date)" ; 
+done
 
 ```
+
+## learning Markdown
+
+* {https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
+
