@@ -1,7 +1,12 @@
 # This is header 1
 
+---
+
 ## Link for this page
+
 * [https://feijaouk.github.io/training/](https://feijaouk.github.io/training/)
+
+---
 
 ## This is header 2
 
@@ -13,6 +18,9 @@ Paragraph text
 
 > this is a quote in markdown
 
+---
+
+## this is code in bash (shell scripting linux)
 
 ```bash
 
@@ -21,10 +29,13 @@ for NUMBER in {1..10} ;
 done
 
 ```
+---
 
 ## learning Markdown
 
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+---
 
 ## Core
 * Linux
