@@ -21,6 +21,6 @@ done
 
 ## learning Markdown
 
-* [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
