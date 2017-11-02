@@ -1,4 +1,5 @@
-# training
-github markdown training
+# training folder/repository
 
-* #feijaouk, helping beginners understanding it technologies
+## github markdown training
+
+* #feijaouk, helping beginners understanding IT Technologies
