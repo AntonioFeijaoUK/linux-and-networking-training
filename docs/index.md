@@ -117,7 +117,7 @@ done
 
 ## Chrome
 
-* Chrome links and notes, *copy/past into the URL bar *
+* Chrome links and notes, *copy/paste into the URL bar *
   - ```chrome://net-internals/#dns```    // usefull do delete chrome's dns cache
   - ```chrome://chrome-urls/```
 
