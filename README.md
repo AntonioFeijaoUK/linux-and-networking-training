@@ -5,7 +5,7 @@
 
 * #feijaouk, helping beginners understanding IT Technologies
 
-* link to training page [https://feijaouk.github.io/training/](https://feijaouk.github.io/training/)
+* link to training page [https://feijaouk.github.io/linux-and-networking-training/](https://feijaouk.github.io/linux-and-networking-training/)
 
 
 ---------------------------------------------------------------------------------
