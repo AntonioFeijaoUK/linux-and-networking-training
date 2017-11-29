@@ -1,46 +1,46 @@
+
+# feijaouk
+> helping beginners understanding IT Technologies
+
+* link to training page [https://feijaouk.github.io/linux-and-networking-training/](https://feijaouk.github.io/linux-and-networking-training/)
+
+
+---------------------------------------------------------------------------------
+
+* [Linux](https://en.wikipedia.org/wiki/Linux)
+
+> Linux is a name which broadly denotes a family of free and open-source software operating systems (OS) built around the Linux kernel
+
+
+* [Networking - Networking hardware](https://en.wikipedia.org/wiki/Networking_hardware)
+
+> Networking devices may include gateways, routers, network bridges, modems, wireless access points, networking cables, line drivers, switches, hubs, and repeaters; and may also include hybrid network devices such as multilayer switches, protocol converters, bridge routers, proxy servers, firewalls, network address translators, multiplexers, network interface controllers, wireless network interface controllers, ISDN terminal adapters and other related hardware.
+
+
+* [Training and development](https://en.wikipedia.org/wiki/Training_and_development)
+
+> Training and development can be described as "an educational process which involves the sharpening of skills, concepts, changing of attitude and gaining more knowledge to enhance the performance of employees"
+
+
+---------------------------------------------------------------------------------
+
+## Markdown basics
+
 # This is header 1
 
----
-
-## Todo list
-
-- [X] Connect with shared folder on Google Drive
-
-- [ ] Create account on GitHub
-
-- [ ] Update this page with our meet up notes
-
-- [ ] 
-
-- [ ] 
-
-- [ ] Check what is bootstrap
-
-- [ ] Install, explore [SoloLearn](https://www.sololearn.com/) ![SoloLeasrn](https://www.sololearn.com/Uploads/sololearn_banner.jpg)
-
-- [ ] understand meaning of this google search ```sololearn site:sololearn.com```
-
----
-
-## Link for this page
-
-* [https://feijaouk.github.io/training/](https://feijaouk.github.io/training/)
-
----
-
 ## This is header 2
+
+### This is header 3
 
 * normal text
 
 Paragraph text
 
-  text with a <tab>
+	text with a <tab>
 
 > this is a quote in markdown
 
----
-
-## this is code in bash (shell scripting linux)
+## sample code in shell scripting
 
 ```bash
 
@@ -49,15 +49,45 @@ for NUMBER in {1..10} ;
 done
 
 ```
----
 
-## learning Markdown
 
-* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* this is a link and useful page to learn more about Markdown [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
----
 
-## Core
+---------------------------------------------------------------------------------
+
+## Todo list and requirements
+
+- [ ] PC/laptop
+
+- [ ] empty pendrive 16GB minimum
+
+- [ ] Email account
+
+- [ ] Create account on GitHub
+
+- [ ] Copy this list into your own page
+
+- [ ] 
+
+- [ ] 
+
+
+## after training suggestion
+
+- [ ] Install, explore [SoloLearn](https://www.sololearn.com/) ![SoloLeasrn](https://www.sololearn.com/Uploads/sololearn_banner.jpg)
+
+- [ ] understand meaning of this google search ```sololearn site:sololearn.com```
+
+- [ ] Check what is bootstrap
+
+
+---------------------------------------------------------------------------------
+
+## Training Level 1
+
+### 1.1 - Linux Fundamentals
+
 * Linux
   - Ubuntu
   
@@ -66,12 +96,23 @@ done
   
   - Fedora
   
-  
-
 * Windows
 
 
-## sample Linux commands
+
+---------------------------------------------------------------------------------
+
+### 1.2 - Network Fundamentals
+
+- localhost
+- 127.0.0.1
+
+- 192.168.0.1 / 24
+
+
+---------------------------------------------------------------------------------
+
+## Sample Linux commands
 ### curl
 
 * curl -vso /dev/null https://feijaouk.com
