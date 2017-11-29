@@ -2,9 +2,9 @@
 
 ---
 
-## For Shah to do
+## Todo list
 
-- [ ] Connect with shared folder on Google Drive
+- [X] Connect with shared folder on Google Drive
 
 - [ ] Create account on GitHub
 
@@ -71,3 +71,41 @@ done
 * Windows
 
 
+## sample Linux commands
+### curl
+
+* curl -vso /dev/null https://feijaouk.com
+
+```bash
+
+curl -vso /dev/null https://feijaouk.com
+* Rebuilt URL to: https://feijaouk.com/
+*   Trying 192.0.78.24...
+* TCP_NODELAY set
+* Connected to feijaouk.com (192.0.78.24) port 443 (#0)
+* TLS 1.2 connection using TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+* Server certificate: tls.automattic.com
+* Server certificate: Let's Encrypt Authority X3
+* Server certificate: DST Root CA X3
+> GET / HTTP/1.1
+> Host: feijaouk.com
+> User-Agent: curl/7.54.0
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Wed, 29 Nov 2017 12:25:55 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=86400
+< Vary: Accept-Encoding
+< Vary: Cookie
+< X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+< Link: <https://wp.me/8gh7g>; rel=shortlink
+< X-ac: 3.lhr _dfw
+< 
+{ [945 bytes data]
+* Connection #0 to host feijaouk.com left intact
+
+```
